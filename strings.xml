@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ConstructionCalculater</string>
+    <string-array name="calculations">
+        <item> </item>
+        <item>Tenths to Standard</item>
+        <item>Standard to Tenths</item>
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+    </string-array>
+    <string name="outputTenths">
+        <item>Output Tenths</item>
+    </string>
+    <string name="outputStandard">
+        <item>Output Standard</item>
+    </string>
+    <string name="answer">
+        <item>Hey</item>
+    </string>
+</resources>
